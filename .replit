@@ -1,4 +1,3 @@
-entrypoint = "help/index.html"
 hidden=[".config"]
 modules = ["web", "nix"]
 
